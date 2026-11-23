@@ -1,0 +1,263 @@
+1
+00:00:00,400 --> 00:00:02,519
+Te llega una foto al grupo de
+
+2
+00:00:02,519 --> 00:00:04,941
+la familia. Parece real, todo el mundo la
+
+3
+00:00:04,941 --> 00:00:07,061
+está compartiendo… y es falsa. La ha
+
+4
+00:00:07,061 --> 00:00:09,180
+hecho una inteligencia artificial en diez segundos.
+
+5
+00:00:09,560 --> 00:00:11,626
+Hasta hace poco era casi imposible saberlo.
+
+6
+00:00:11,626 --> 00:00:13,988
+Pero eso acaba de cambiar. Hoy te enseño
+
+7
+00:00:13,988 --> 00:00:16,054
+las tres formas que existen de comprobar
+
+8
+00:00:16,054 --> 00:00:18,120
+si una foto o un vídeo están
+
+9
+00:00:18,120 --> 00:00:20,186
+hechos con IA, cuál funciona de verdad,
+
+10
+00:00:20,186 --> 00:00:22,548
+y un método de cuatro pasos que puedes
+
+11
+00:00:22,548 --> 00:00:24,614
+usar en treinta segundos desde el móvil.
+
+12
+00:00:25,364 --> 00:00:27,502
+La primera forma es la más nueva.
+
+13
+00:00:27,502 --> 00:00:29,334
+Algunas inteligencias artificiales esconden dentro de
+
+14
+00:00:29,334 --> 00:00:31,471
+la imagen una marca de agua que
+
+15
+00:00:31,471 --> 00:00:33,609
+no se ve a simple vista. Google
+
+16
+00:00:33,609 --> 00:00:35,441
+la llama SynthID, y en octubre
+
+17
+00:00:35,441 --> 00:00:37,578
+abrió al público su detector: subes la
+
+18
+00:00:37,578 --> 00:00:39,410
+foto, el vídeo o el audio,
+
+19
+00:00:39,410 --> 00:00:41,548
+y te dice si lleva esa marca.
+
+20
+00:00:41,928 --> 00:00:43,948
+Pero ojo, que aquí viene la trampa.
+
+21
+00:00:43,948 --> 00:00:47,699
+Solo reconoce lo que han creado las herramientas de Google y de sus
+
+22
+00:00:47,699 --> 00:00:49,718
+socios. Si te dice que no encuentra
+
+23
+00:00:49,718 --> 00:00:51,738
+la marca, eso no significa que la
+
+24
+00:00:51,738 --> 00:00:55,489
+foto sea real. Solo significa que no la hizo una de esas herramientas.
+
+25
+00:00:56,239 --> 00:00:58,099
+La segunda forma son las credenciales
+
+26
+00:00:58,099 --> 00:01:00,269
+de contenido. Es como un historial firmado
+
+27
+00:01:00,269 --> 00:01:02,129
+que viaja con el archivo: con
+
+28
+00:01:02,129 --> 00:01:04,299
+qué cámara o con qué programa se
+
+29
+00:01:04,299 --> 00:01:06,159
+hizo, y qué cambios ha tenido.
+
+30
+00:01:06,539 --> 00:01:08,628
+Cada vez más cámaras, móviles y programas
+
+31
+00:01:08,628 --> 00:01:11,016
+lo añaden, y Google ha anunciado que lo
+
+32
+00:01:11,016 --> 00:01:13,105
+mostrará en su buscador y en Chrome.
+
+33
+00:01:13,105 --> 00:01:15,195
+El problema es que todavía no está
+
+34
+00:01:15,195 --> 00:01:17,583
+en todas partes, y si alguien hace una
+
+35
+00:01:17,583 --> 00:01:19,672
+captura de pantalla, ese historial se pierde.
+
+36
+00:01:20,422 --> 00:01:22,553
+La tercera forma eres tú. Fíjate en
+
+37
+00:01:22,553 --> 00:01:24,380
+los textos del fondo, que a
+
+38
+00:01:24,380 --> 00:01:26,512
+menudo no tienen sentido. En las sombras,
+
+39
+00:01:26,512 --> 00:01:28,339
+que no cuadran con la luz.
+
+40
+00:01:28,339 --> 00:01:30,470
+En la piel, demasiado perfecta. En las
+
+41
+00:01:30,470 --> 00:01:32,297
+manos, las orejas o los pendientes.
+
+42
+00:01:32,677 --> 00:01:34,877
+Pero cuidado: cada año las imágenes
+
+43
+00:01:34,877 --> 00:01:37,443
+de IA cometen menos errores. Estas señales
+
+44
+00:01:37,443 --> 00:01:39,643
+son pistas, no pruebas. Una foto
+
+45
+00:01:39,643 --> 00:01:41,843
+sin fallos puede ser falsa igualmente.
+
+46
+00:01:42,593 --> 00:01:44,439
+Así que la clave no es
+
+47
+00:01:44,439 --> 00:01:46,286
+una sola herramienta, sino combinarlas. Este
+
+48
+00:01:46,286 --> 00:01:48,132
+es mi método de cuatro pasos.
+
+49
+00:01:48,512 --> 00:01:50,752
+Uno: para. Si una foto te provoca
+
+50
+00:01:50,752 --> 00:01:52,673
+mucha rabia o mucho miedo, desconfía;
+
+51
+00:01:52,673 --> 00:01:54,913
+los bulos están hechos justo para eso.
+
+52
+00:01:55,293 --> 00:01:57,426
+Dos: busca el origen. Haz una búsqueda
+
+53
+00:01:57,426 --> 00:01:59,254
+inversa de la imagen y mira
+
+54
+00:01:59,254 --> 00:02:01,387
+quién la publicó primero. Si no hay
+
+55
+00:02:01,387 --> 00:02:03,215
+ningún medio fiable detrás, mala señal.
+
+56
+00:02:03,595 --> 00:02:05,614
+Tres: pásala por un detector y
+
+57
+00:02:05,614 --> 00:02:07,632
+mira si tiene credenciales de contenido.
+
+58
+00:02:08,012 --> 00:02:11,225
+Y cuatro: revisa las pistas. Textos, sombras, manos.
+
+59
+00:02:11,605 --> 00:02:14,047
+Si después de esto sigues sin estar seguro,
+
+60
+00:02:14,047 --> 00:02:16,184
+haz lo más sencillo: no la compartas.
+
+61
+00:02:16,934 --> 00:02:19,610
+Ninguna herramienta es infalible, pero con estos cuatro
+
+62
+00:02:19,610 --> 00:02:21,952
+pasos vas a detectar la mayoría de
+
+63
+00:02:21,952 --> 00:02:24,628
+fotos falsas antes de que te la cuelen.
+
+64
+00:02:25,008 --> 00:02:27,083
+Si te ha servido, compártelo con esa
+
+65
+00:02:27,083 --> 00:02:30,938
+persona que se lo cree todo en el grupo de la familia. Y
+
+66
+00:02:30,938 --> 00:02:34,792
+suscríbete: cada semana, un truco de IA que puedes usar ese mismo día.

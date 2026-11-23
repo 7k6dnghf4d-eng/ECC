@@ -1,0 +1,481 @@
+{
+"secs": [
+0.25,
+31.2,
+60.0,
+89.8,
+113.8,
+141.0,
+160.8,
+184.7,
+217.5,
+242.8
+],
+"cues": [
+{
+"t0": 0.25,
+"t1": 2.58,
+"text": "Le pides algo a la inteligencia artificial"
+},
+{
+"t0": 2.63,
+"t1": 4.63,
+"text": "y te devuelve esto: un texto"
+},
+{
+"t0": 4.68,
+"t1": 7.01,
+"text": "larguísimo, genérico, que podría haber escrito cualquiera."
+},
+{
+"t0": 7.06,
+"t1": 10.08,
+"text": "Y piensas: pues tanta IA, tanta IA… para esto."
+},
+{
+"t0": 10.13,
+"t1": 12.12,
+"text": "El problema no es la herramienta."
+},
+{
+"t0": 12.17,
+"t1": 15.87,
+"text": "Es cómo le hablas. En los próximos minutos te enseño siete"
+},
+{
+"t0": 15.92,
+"t1": 18.25,
+"text": "trucos que uso cada día, que funcionan"
+},
+{
+"t0": 18.3,
+"t1": 20.97,
+"text": "igual en ChatGPT, en Gemini y en Claude"
+},
+{
+"t0": 21.02,
+"t1": 23.36,
+"text": "y que convierten una respuesta del montón"
+},
+{
+"t0": 23.41,
+"t1": 25.74,
+"text": "en una que de verdad te sirve."
+},
+{
+"t0": 25.79,
+"t1": 28.47,
+"text": "El último es el que más me ha"
+},
+{
+"t0": 28.52,
+"t1": 30.85,
+"text": "cambiado, así que quédate hasta el final."
+},
+{
+"t0": 31.2,
+"t1": 33.46,
+"text": "La IA responde mejor cuando sabe"
+},
+{
+"t0": 33.51,
+"t1": 35.39,
+"text": "desde dónde tiene que hablar."
+},
+{
+"t0": 35.44,
+"t1": 37.7,
+"text": "No es lo mismo explícame qué"
+},
+{
+"t0": 37.75,
+"t1": 40.01,
+"text": "es la inflación que eres un"
+},
+{
+"t0": 40.06,
+"t1": 42.7,
+"text": "profesor de economía de secundaria; explícamelo como"
+},
+{
+"t0": 42.75,
+"t1": 45.01,
+"text": "a un alumno de quince años."
+},
+{
+"t0": 45.06,
+"t1": 47.71,
+"text": "Con la segunda frase le estás diciendo"
+},
+{
+"t0": 47.76,
+"t1": 50.79,
+"text": "tres cosas a la vez: qué nivel usar"
+},
+{
+"t0": 50.84,
+"t1": 53.49,
+"text": "qué tono y qué ejemplos tienen sentido."
+},
+{
+"t0": 53.54,
+"t1": 56.57,
+"text": "Prueba a empezar tus peticiones con actúa como…"
+},
+{
+"t0": 56.62,
+"t1": 59.65,
+"text": "y verás la diferencia en la primera respuesta."
+},
+{
+"t0": 60.0,
+"t1": 63.76,
+"text": "La IA no te conoce. Si le pides un plan de ahorro"
+},
+{
+"t0": 63.81,
+"t1": 65.66,
+"text": "te dará el plan de ahorro"
+},
+{
+"t0": 65.71,
+"t1": 67.88,
+"text": "de una persona media que no existe."
+},
+{
+"t0": 67.93,
+"t1": 69.78,
+"text": "Dale contexto: vivo solo, gano tanto"
+},
+{
+"t0": 69.83,
+"t1": 71.69,
+"text": "pago tanto de alquiler y quiero"
+},
+{
+"t0": 71.74,
+"t1": 73.59,
+"text": "ahorrar para un viaje en verano."
+},
+{
+"t0": 73.64,
+"t1": 75.49,
+"text": "Con esos datos ya no te"
+},
+{
+"t0": 75.54,
+"t1": 77.71,
+"text": "habla a cualquiera; te habla a ti."
+},
+{
+"t0": 77.76,
+"t1": 79.62,
+"text": "Regla sencilla: todo lo que le"
+},
+{
+"t0": 79.67,
+"t1": 81.84,
+"text": "contarías a un amigo para que te"
+},
+{
+"t0": 81.89,
+"t1": 83.74,
+"text": "aconseje, cuéntaselo también a la IA."
+},
+{
+"t0": 83.79,
+"t1": 85.64,
+"text": "Eso sí, nunca le pases contraseñas"
+},
+{
+"t0": 85.69,
+"t1": 87.55,
+"text": "números de cuenta ni datos que"
+},
+{
+"t0": 87.6,
+"t1": 89.45,
+"text": "no quieras que estén en internet."
+},
+{
+"t0": 89.8,
+"t1": 91.97,
+"text": "Si no le dices el formato"
+},
+{
+"t0": 92.02,
+"t1": 94.19,
+"text": "elige uno por ti, y casi"
+},
+{
+"t0": 94.24,
+"t1": 96.42,
+"text": "siempre es el muro de texto."
+},
+{
+"t0": 96.47,
+"t1": 99.01,
+"text": "Pídelo exactamente: en una tabla, en cinco"
+},
+{
+"t0": 99.06,
+"t1": 101.6,
+"text": "puntos, en menos de cien palabras, como"
+},
+{
+"t0": 101.65,
+"t1": 104.19,
+"text": "un mensaje de WhatsApp para mi jefe."
+},
+{
+"t0": 104.24,
+"t1": 106.41,
+"text": "Este es el truco más rápido"
+},
+{
+"t0": 106.46,
+"t1": 108.64,
+"text": "de todos y el que más"
+},
+{
+"t0": 108.69,
+"t1": 111.23,
+"text": "tiempo ahorra, porque te evita leer párrafos"
+},
+{
+"t0": 111.28,
+"t1": 113.45,
+"text": "enteros para encontrar lo que buscabas."
+},
+{
+"t0": 113.8,
+"t1": 116.4,
+"text": "A veces es difícil explicar lo"
+},
+{
+"t0": 116.45,
+"t1": 119.04,
+"text": "que quieres, pero muy fácil enseñarlo."
+},
+{
+"t0": 119.09,
+"t1": 122.13,
+"text": "Si quieres que escriba como tú, pégale"
+},
+{
+"t0": 122.18,
+"t1": 125.22,
+"text": "un correo que hayas escrito y dile:"
+},
+{
+"t0": 125.27,
+"t1": 128.3,
+"text": "escribe el siguiente con este mismo estilo."
+},
+{
+"t0": 128.35,
+"t1": 131.39,
+"text": "Funciona con todo: descripciones de productos, publicaciones"
+},
+{
+"t0": 131.44,
+"t1": 134.04,
+"text": "para redes, incluso con el tono"
+},
+{
+"t0": 134.09,
+"t1": 137.12,
+"text": "con el que hablas a tus clientes."
+},
+{
+"t0": 137.17,
+"t1": 140.65,
+"text": "Un buen ejemplo vale más que diez instrucciones."
+},
+{
+"t0": 141.0,
+"t1": 144.85,
+"text": "Este casi nadie lo usa. Al final de tu petición añade: antes"
+},
+{
+"t0": 144.9,
+"t1": 147.12,
+"text": "de responder, hazme las preguntas que necesites."
+},
+{
+"t0": 147.18,
+"t1": 149.07,
+"text": "En lugar de inventarse lo que"
+},
+{
+"t0": 149.12,
+"t1": 151.02,
+"text": "le falta, la IA te pregunta."
+},
+{
+"t0": 151.07,
+"t1": 152.97,
+"text": "Respondes en treinta segundos y la"
+},
+{
+"t0": 153.02,
+"t1": 154.92,
+"text": "respuesta final está hecha a medida."
+},
+{
+"t0": 154.97,
+"t1": 157.52,
+"text": "Es como pasar de un vendedor que te"
+},
+{
+"t0": 157.57,
+"t1": 160.45,
+"text": "recita el catálogo a uno que primero te escucha."
+},
+{
+"t0": 160.8,
+"t1": 165.2,
+"text": "La primera respuesta es un borrador, no el resultado final."
+},
+{
+"t0": 165.25,
+"t1": 167.87,
+"text": "Contéstale como contestarías a una persona:"
+},
+{
+"t0": 167.92,
+"t1": 170.99,
+"text": "más corto, menos formal, el segundo punto"
+},
+{
+"t0": 171.04,
+"t1": 173.66,
+"text": "no me convence, dame otra opción."
+},
+{
+"t0": 173.71,
+"t1": 176.78,
+"text": "Y si quieres ir más rápido, pídele"
+},
+{
+"t0": 176.83,
+"t1": 179.9,
+"text": "desde el principio: dame tres versiones distintas."
+},
+{
+"t0": 179.95,
+"t1": 184.35,
+"text": "Elegir entre tres es mucho más fácil que corregir una."
+},
+{
+"t0": 184.7,
+"t1": 187.94,
+"text": "Y este es el que más me ha cambiado."
+},
+{
+"t0": 187.99,
+"t1": 190.49,
+"text": "Cuando tengas una respuesta, escribe: revisa lo"
+},
+{
+"t0": 190.54,
+"t1": 193.05,
+"text": "que acabas de escribir: ¿qué está mal"
+},
+{
+"t0": 193.1,
+"t1": 195.61,
+"text": "qué falta y qué podría ser falso?"
+},
+{
+"t0": 195.66,
+"t1": 199.99,
+"text": "Las IA se equivocan. A veces se inventan datos con total seguridad."
+},
+{
+"t0": 200.04,
+"t1": 202.18,
+"text": "Pedirle que se critique a sí"
+},
+{
+"t0": 202.23,
+"t1": 204.37,
+"text": "misma no lo arregla todo, pero"
+},
+{
+"t0": 204.42,
+"t1": 206.56,
+"text": "muchas veces encuentra sus propios fallos."
+},
+{
+"t0": 206.61,
+"t1": 209.48,
+"text": "Y para cualquier cosa importante ,salud, dinero, temas"
+},
+{
+"t0": 209.53,
+"t1": 212.77,
+"text": "legales, comprueba siempre la información en una fuente fiable."
+},
+{
+"t0": 212.82,
+"t1": 214.96,
+"text": "La IA es un ayudante, no"
+},
+{
+"t0": 215.01,
+"t1": 217.15,
+"text": "un experto que firme por ti."
+},
+{
+"t0": 217.5,
+"t1": 220.05,
+"text": "Repaso rápido: dale un papel, cuéntale tu situación"
+},
+{
+"t0": 220.1,
+"t1": 222.64,
+"text": "dile el formato, enséñale un ejemplo, pídele que"
+},
+{
+"t0": 222.69,
+"t1": 224.92,
+"text": "te pregunte, no te quedes con la"
+},
+{
+"t0": 224.97,
+"t1": 227.51,
+"text": "primera, y que se revise a sí misma."
+},
+{
+"t0": 227.56,
+"t1": 229.79,
+"text": "Si te ha servido, guarda este vídeo"
+},
+{
+"t0": 229.84,
+"t1": 232.06,
+"text": "para tenerlo a mano y suscríbete: cada"
+},
+{
+"t0": 232.11,
+"t1": 234.66,
+"text": "semana explico una herramienta o un truco de"
+},
+{
+"t0": 234.71,
+"t1": 236.93,
+"text": "IA que puedes usar ese mismo día."
+},
+{
+"t0": 236.98,
+"t1": 239.53,
+"text": "Y cuéntame en comentarios para qué usas tú"
+},
+{
+"t0": 239.58,
+"t1": 242.45,
+"text": "la IA, que de ahí saco los próximos vídeos."
+}
+]
+}

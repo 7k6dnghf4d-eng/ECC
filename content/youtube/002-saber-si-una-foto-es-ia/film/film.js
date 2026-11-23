@@ -110,7 +110,7 @@ function sceneHook(g, t) {
     const q = seg(t, at(1) + 4.5, at(1) + 4.9);
     if (q > 0) {
       g.fillStyle = `rgba(8,9,12,${0.9 * q})`; g.fillRect(0, 0, W, H);
-      ['Marca de agua', 'Historial', 'Tus ojos'].forEach((s, i) => popAt(g, t, at(1) + 5 + i * 0.6, W / 2 - 600 + i * 400, 380, () => {
+      ['Marca de agua', 'Historial', 'Tus ojos'].forEach((s, i) => popAt(g, t, at(1) + 4.3 + i * 0.6, W / 2 - 600 + i * 400, 380, () => {
         E.panel(g, -170, -90, 340, 180, { r: 20 }); text(g, `0${i + 1}`, -140, -36, 28, 600, PAL.accent, { fam: 'mono' }); text(g, s, -140, 30, 38, 600, PAL.text); }));
       popAt(g, t, at(1) + 9.5, W / 2, 640, () => chip(g, '+ método de 4 pasos · 30 segundos', 0, 0, { accent: true, px: 34, center: true }));
     }
@@ -225,7 +225,7 @@ export function buildEvents() {
   [0.3, 0.8, 1.6].forEach(t => ev.push({ t, type: 'pop' }));
   for (let i = 0; i < 30; i++) ev.push({ t: 2.4 + i * 0.22, type: 'scatter', i });
   ev.push({ t: 6.3, type: 'stamp' }); ev.push({ t: at(1), type: 'freeze' });
-  [0, 1, 2].forEach(i => ev.push({ t: at(1) + 5 + i * 0.6, type: 'snap', i })); ev.push({ t: at(1) + 9.5, type: 'confirm' });
+  [0, 1, 2].forEach(i => ev.push({ t: at(1) + 4.3 + i * 0.6, type: 'snap', i })); ev.push({ t: at(1) + 9.5, type: 'confirm' });
   for (let s = 1; s < 6; s++) ev.push({ t: secStart(s) - 0.04, type: 'whoosh' });
   const s1 = secStart(1); ev.push({ t: s1 + 6, type: 'sweep' }); ev.push({ t: s1 + 9, type: 'pop' }); ev.push({ t: at(3) + 3, type: 'confirm' }); ev.push({ t: at(3) + 7, type: 'pop' });
   ev.push({ t: secStart(2) + 1.5, type: 'whoosh' }); [3, 3.6, 7].forEach(d => ev.push({ t: at(5) + d, type: 'pop' })); ev.push({ t: at(5) + 9.5, type: 'break' });

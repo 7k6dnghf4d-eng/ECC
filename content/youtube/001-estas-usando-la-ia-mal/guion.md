@@ -1,8 +1,8 @@
 # Vídeo 001 — Estás usando la IA mal (7 trucos que cambian las respuestas)
 
 - **Canal:** IA práctica en español
-- **Duración objetivo:** 7–8 min (~1.150 palabras narradas)
-- **Estado:** borrador para aprobar
+- **Duración:** 4:03 (narración real, 661 palabras) — audio en `narracion.mp3`
+- **Estado:** guion aprobado, narración lista; falta montar el vídeo
 - **Por qué este tema:** búsqueda constante ("cómo usar ChatGPT", "prompts"), sirve para ChatGPT, Gemini y Claude a la vez, no caduca, y no depende de novedades sin verificar.
 
 ## Títulos (elegir uno)
@@ -29,7 +29,7 @@ Le pides algo a la inteligencia artificial y te devuelve esto: un texto larguís
 
 El problema no es la herramienta. Es cómo le hablas. En los próximos minutos te enseño siete trucos que uso cada día, que funcionan igual en ChatGPT, en Gemini y en Claude, y que convierten una respuesta del montón en una que de verdad te sirve. El último es el que más me ha cambiado, así que quédate hasta el final.
 
-### 0:40 — Truco 1: dale un papel
+### 0:31 — Truco 1: dale un papel
 
 **[VISUAL]** Un personaje de silueta se pone distintos sombreros: chef, abogado, profesor.
 
@@ -37,7 +37,7 @@ La IA responde mejor cuando sabe desde dónde tiene que hablar. No es lo mismo �
 
 Con la segunda frase le estás diciendo tres cosas a la vez: qué nivel usar, qué tono y qué ejemplos tienen sentido. Prueba a empezar tus peticiones con «actúa como…» y verás la diferencia en la primera respuesta.
 
-### 1:30 — Truco 2: cuéntale tu situación
+### 1:00 — Truco 2: cuéntale tu situación
 
 **[VISUAL]** Un formulario casi vacío se va rellenando: edad, sueldo, ciudad, objetivo.
 
@@ -45,7 +45,7 @@ La IA no te conoce. Si le pides un plan de ahorro, te dará el plan de ahorro de
 
 Dale contexto: «vivo solo, gano tanto, pago tanto de alquiler y quiero ahorrar para un viaje en verano». Con esos datos ya no te habla a cualquiera; te habla a ti. Regla sencilla: todo lo que le contarías a un amigo para que te aconseje, cuéntaselo también a la IA. Eso sí, nunca le pases contraseñas, números de cuenta ni datos que no quieras que estén en internet.
 
-### 2:20 — Truco 3: dile cómo quieres la respuesta
+### 1:30 — Truco 3: dile cómo quieres la respuesta
 
 **[VISUAL]** El muro de texto se transforma en una tabla limpia de tres columnas.
 
@@ -53,7 +53,7 @@ Si no le dices el formato, elige uno por ti, y casi siempre es el muro de texto.
 
 Este es el truco más rápido de todos y el que más tiempo ahorra, porque te evita leer párrafos enteros para encontrar lo que buscabas.
 
-### 3:00 — Truco 4: enséñale un ejemplo
+### 1:54 — Truco 4: enséñale un ejemplo
 
 **[VISUAL]** Una flecha une un texto de muestra con la respuesta, que copia su estilo.
 
@@ -61,7 +61,7 @@ A veces es difícil explicar lo que quieres, pero muy fácil enseñarlo. Si quie
 
 Funciona con todo: descripciones de productos, publicaciones para redes, incluso con el tono con el que hablas a tus clientes. Un buen ejemplo vale más que diez instrucciones.
 
-### 3:50 — Truco 5: pídele que te pregunte
+### 2:21 — Truco 5: pídele que te pregunte
 
 **[VISUAL]** La burbuja de la IA se llena de signos de interrogación.
 
@@ -69,7 +69,7 @@ Este casi nadie lo usa. Al final de tu petición añade: «antes de responder, h
 
 En lugar de inventarse lo que le falta, la IA te pregunta. Respondes en treinta segundos y la respuesta final está hecha a medida. Es como pasar de un vendedor que te recita el catálogo a uno que primero te escucha.
 
-### 4:40 — Truco 6: no te quedes con la primera
+### 2:41 — Truco 6: no te quedes con la primera
 
 **[VISUAL]** Tres versiones de un texto aparecen una detrás de otra; la tercera brilla.
 
@@ -77,7 +77,7 @@ La primera respuesta es un borrador, no el resultado final. Contéstale como con
 
 Y si quieres ir más rápido, pídele desde el principio: «dame tres versiones distintas». Elegir entre tres es mucho más fácil que corregir una.
 
-### 5:30 — Truco 7: que se revise a sí misma
+### 3:05 — Truco 7: que se revise a sí misma
 
 **[VISUAL]** La IA sostiene una lupa sobre su propio texto; aparecen marcas rojas.
 
@@ -85,7 +85,7 @@ Y este es el que más me ha cambiado. Cuando tengas una respuesta, escribe: «re
 
 Las IA se equivocan. A veces se inventan datos con total seguridad. Pedirle que se critique a sí misma no lo arregla todo, pero muchas veces encuentra sus propios fallos. Y para cualquier cosa importante —salud, dinero, temas legales— comprueba siempre la información en una fuente fiable. La IA es un ayudante, no un experto que firme por ti.
 
-### 6:30 — Resumen y cierre
+### 3:37 — Resumen y cierre
 
 **[VISUAL]** Los siete trucos aparecen como fichas en una cuadrícula.
 
@@ -102,14 +102,14 @@ Si te ha servido, guarda este vídeo para tenerlo a mano y suscríbete: cada sem
 ¿La IA te da respuestas genéricas? No es la herramienta, es cómo le hablas. En este vídeo te enseño 7 trucos que funcionan en ChatGPT, Gemini y Claude para conseguir respuestas útiles de verdad.
 
 00:00 Por qué la IA te responde mal
-00:40 Truco 1: dale un papel
-01:30 Truco 2: cuéntale tu situación
-02:20 Truco 3: dile el formato
-03:00 Truco 4: enséñale un ejemplo
-03:50 Truco 5: pídele que te pregunte
-04:40 Truco 6: no te quedes con la primera
-05:30 Truco 7: que se revise a sí misma
-06:30 Resumen
+00:31 Truco 1: dale un papel
+01:00 Truco 2: cuéntale tu situación
+01:30 Truco 3: dile el formato
+01:54 Truco 4: enséñale un ejemplo
+02:21 Truco 5: pídele que te pregunte
+02:41 Truco 6: no te quedes con la primera
+03:05 Truco 7: que se revise a sí misma
+03:37 Resumen
 
 #inteligenciaartificial #chatgpt #trucosIA
 
@@ -117,12 +117,12 @@ Si te ha servido, guarda este vídeo para tenerlo a mano y suscríbete: cada sem
 
 | Short | Fragmento | Gancho de apertura |
 |---|---|---|
-| A | Truco 5 (3:50–4:40) | «Añade esta frase al final de lo que le pides a ChatGPT» |
-| B | Truco 7 (5:30–6:30) | «La IA te miente con total seguridad. Así la pillas» |
-| C | Truco 3 (2:20–3:00) | «Deja de leer muros de texto de la IA» |
+| A | Truco 5 (2:21–2:41) | «Añade esta frase al final de lo que le pides a ChatGPT» |
+| B | Truco 7 (3:05–3:37) | «La IA te miente con total seguridad. Así la pillas» |
+| C | Truco 3 (1:30–1:54) | «Deja de leer muros de texto de la IA» |
 
 ## Pendiente antes de producir
 
-- [ ] Aprobar título y guion (cambia lo que no suene a ti)
-- [ ] Audio de muestra de tu voz (1–3 min) para clonarla en ElevenLabs
-- [ ] Clave de API de ElevenLabs en los ajustes del entorno (host `api.elevenlabs.io`, cabecera `xi-api-key`)
+- [x] Aprobar título y guion
+- [x] Narración generada en ElevenLabs (`narracion.mp3`)
+- [ ] (Opcional, para automatizar los siguientes) Clave de API de ElevenLabs en los ajustes del entorno (host `api.elevenlabs.io`, cabecera `xi-api-key`)

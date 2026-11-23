@@ -9,6 +9,7 @@ export const S = [0, 31.2, 60.0, 89.8, 113.8, 141.0, 160.8, 184.7, 217.5, 242.8]
 export const DUR = 245.0;
 const FREEZE = [186.0, 186.8];            // digital-zero silence before the self-review (the peak)
 let SUBS = [];
+export const getSubs = () => SUBS;
 export function setSubs(j) { SUBS = j.cues; }
 
 // ───────── helpers ─────────
@@ -346,7 +347,7 @@ function sceneRecap(g, t) {                // snap grid of the 7 tricks, then th
 }
 
 const SCENES = [sceneHook, sceneRole, sceneContext, sceneFormat, sceneExample, sceneAsk, sceneVersions, sceneReview, sceneRecap];
-export function renderFilm(g, t) {
+export function renderFilm(g, t, o = {}) {
   g.setTransform(1, 0, 0, 1, 0, 0);
   const i = Math.max(0, S.findLastIndex(s => t >= s));
   const k = Math.min(i, SCENES.length - 1);
@@ -359,7 +360,7 @@ export function renderFilm(g, t) {
   if (clipped) g.restore();
   E.vignette(g, 0.5);
   // captions: the toast component
-  if (t < 240.2) for (const c of SUBS) if (t >= c.t0 && t < c.t1) E.toast(g, c.text, seg(t, c.t0, c.t0 + 0.16), { px: 38 });
+  if (!o.nosub && t < 240.2) for (const c of SUBS) if (t >= c.t0 && t < c.t1) E.toast(g, c.text, seg(t, c.t0, c.t0 + 0.16), { px: 38 });
 }
 // on-screen text for readcheck: the captions (scene text is timed with the voice that reads it)
 export function texts(t) { return SUBS.filter(c => t >= c.t0 && t < c.t1).map((c, i) => ({ id: 'sub' + c.t0, text: c.text, x0: 300, y0: 940, x1: 1620, y1: 1010 })); }

@@ -296,7 +296,7 @@ que acabas de escribir: ¿qué está mal
 
 75
 00:03:13,100 --> 00:03:15,610
-qué falta y qué podría ser falso?.
+qué falta y qué podría ser falso?
 
 76
 00:03:15,660 --> 00:03:19,990

@@ -10,7 +10,7 @@ assert len(parts) == len(SECS) - 1, len(parts)
 cues = []
 for i, p in enumerate(parts):
     txt = ' '.join(l for l in p.splitlines() if l.strip() and not l.startswith(('**[VISUAL', '>', '---')))
-    txt = txt.replace('—', ',').replace('«', '').replace('»', '')
+    txt = txt.replace('?».', '?').replace('—', ',').replace('«', '').replace('»', '')
     sents = re.findall(r'[^.!?…]+[.!?…]*', txt)
     chunks = []
     for s in sents:                       # max ~7 words per toast so it fits one line

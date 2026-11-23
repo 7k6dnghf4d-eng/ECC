@@ -1,0 +1,371 @@
+1
+00:00:00,250 --> 00:00:02,580
+Le pides algo a la inteligencia artificial
+
+2
+00:00:02,630 --> 00:00:04,630
+y te devuelve esto: un texto
+
+3
+00:00:04,680 --> 00:00:07,010
+larguísimo, genérico, que podría haber escrito cualquiera.
+
+4
+00:00:07,060 --> 00:00:10,080
+Y piensas: pues tanta IA, tanta IA… para esto.
+
+5
+00:00:10,130 --> 00:00:12,120
+El problema no es la herramienta.
+
+6
+00:00:12,170 --> 00:00:15,870
+Es cómo le hablas. En los próximos minutos te enseño siete
+
+7
+00:00:15,920 --> 00:00:18,250
+trucos que uso cada día, que funcionan
+
+8
+00:00:18,300 --> 00:00:20,970
+igual en ChatGPT, en Gemini y en Claude
+
+9
+00:00:21,020 --> 00:00:23,360
+y que convierten una respuesta del montón
+
+10
+00:00:23,410 --> 00:00:25,740
+en una que de verdad te sirve.
+
+11
+00:00:25,790 --> 00:00:28,470
+El último es el que más me ha
+
+12
+00:00:28,520 --> 00:00:30,850
+cambiado, así que quédate hasta el final.
+
+13
+00:00:31,200 --> 00:00:33,460
+La IA responde mejor cuando sabe
+
+14
+00:00:33,510 --> 00:00:35,390
+desde dónde tiene que hablar.
+
+15
+00:00:35,440 --> 00:00:37,700
+No es lo mismo explícame qué
+
+16
+00:00:37,750 --> 00:00:40,010
+es la inflación que eres un
+
+17
+00:00:40,060 --> 00:00:42,700
+profesor de economía de secundaria; explícamelo como
+
+18
+00:00:42,750 --> 00:00:45,010
+a un alumno de quince años.
+
+19
+00:00:45,060 --> 00:00:47,710
+Con la segunda frase le estás diciendo
+
+20
+00:00:47,760 --> 00:00:50,790
+tres cosas a la vez: qué nivel usar
+
+21
+00:00:50,840 --> 00:00:53,490
+qué tono y qué ejemplos tienen sentido.
+
+22
+00:00:53,540 --> 00:00:56,570
+Prueba a empezar tus peticiones con actúa como…
+
+23
+00:00:56,620 --> 00:00:59,650
+y verás la diferencia en la primera respuesta.
+
+24
+00:01:00,000 --> 00:01:03,760
+La IA no te conoce. Si le pides un plan de ahorro
+
+25
+00:01:03,810 --> 00:01:05,660
+te dará el plan de ahorro
+
+26
+00:01:05,710 --> 00:01:07,880
+de una persona media que no existe.
+
+27
+00:01:07,930 --> 00:01:09,780
+Dale contexto: vivo solo, gano tanto
+
+28
+00:01:09,830 --> 00:01:11,690
+pago tanto de alquiler y quiero
+
+29
+00:01:11,740 --> 00:01:13,590
+ahorrar para un viaje en verano.
+
+30
+00:01:13,640 --> 00:01:15,490
+Con esos datos ya no te
+
+31
+00:01:15,540 --> 00:01:17,710
+habla a cualquiera; te habla a ti.
+
+32
+00:01:17,760 --> 00:01:19,620
+Regla sencilla: todo lo que le
+
+33
+00:01:19,670 --> 00:01:21,840
+contarías a un amigo para que te
+
+34
+00:01:21,890 --> 00:01:23,740
+aconseje, cuéntaselo también a la IA.
+
+35
+00:01:23,790 --> 00:01:25,640
+Eso sí, nunca le pases contraseñas
+
+36
+00:01:25,690 --> 00:01:27,550
+números de cuenta ni datos que
+
+37
+00:01:27,600 --> 00:01:29,450
+no quieras que estén en internet.
+
+38
+00:01:29,800 --> 00:01:31,970
+Si no le dices el formato
+
+39
+00:01:32,020 --> 00:01:34,190
+elige uno por ti, y casi
+
+40
+00:01:34,240 --> 00:01:36,420
+siempre es el muro de texto.
+
+41
+00:01:36,470 --> 00:01:39,010
+Pídelo exactamente: en una tabla, en cinco
+
+42
+00:01:39,060 --> 00:01:41,600
+puntos, en menos de cien palabras, como
+
+43
+00:01:41,650 --> 00:01:44,190
+un mensaje de WhatsApp para mi jefe.
+
+44
+00:01:44,240 --> 00:01:46,410
+Este es el truco más rápido
+
+45
+00:01:46,460 --> 00:01:48,640
+de todos y el que más
+
+46
+00:01:48,690 --> 00:01:51,230
+tiempo ahorra, porque te evita leer párrafos
+
+47
+00:01:51,280 --> 00:01:53,450
+enteros para encontrar lo que buscabas.
+
+48
+00:01:53,800 --> 00:01:56,400
+A veces es difícil explicar lo
+
+49
+00:01:56,450 --> 00:01:59,040
+que quieres, pero muy fácil enseñarlo.
+
+50
+00:01:59,090 --> 00:02:02,130
+Si quieres que escriba como tú, pégale
+
+51
+00:02:02,180 --> 00:02:05,220
+un correo que hayas escrito y dile:
+
+52
+00:02:05,270 --> 00:02:08,300
+escribe el siguiente con este mismo estilo.
+
+53
+00:02:08,350 --> 00:02:11,390
+Funciona con todo: descripciones de productos, publicaciones
+
+54
+00:02:11,440 --> 00:02:14,040
+para redes, incluso con el tono
+
+55
+00:02:14,090 --> 00:02:17,120
+con el que hablas a tus clientes.
+
+56
+00:02:17,170 --> 00:02:20,650
+Un buen ejemplo vale más que diez instrucciones.
+
+57
+00:02:21,000 --> 00:02:24,850
+Este casi nadie lo usa. Al final de tu petición añade: antes
+
+58
+00:02:24,900 --> 00:02:27,120
+de responder, hazme las preguntas que necesites.
+
+59
+00:02:27,180 --> 00:02:29,070
+En lugar de inventarse lo que
+
+60
+00:02:29,120 --> 00:02:31,020
+le falta, la IA te pregunta.
+
+61
+00:02:31,070 --> 00:02:32,970
+Respondes en treinta segundos y la
+
+62
+00:02:33,020 --> 00:02:34,920
+respuesta final está hecha a medida.
+
+63
+00:02:34,970 --> 00:02:37,520
+Es como pasar de un vendedor que te
+
+64
+00:02:37,570 --> 00:02:40,450
+recita el catálogo a uno que primero te escucha.
+
+65
+00:02:40,800 --> 00:02:45,200
+La primera respuesta es un borrador, no el resultado final.
+
+66
+00:02:45,250 --> 00:02:47,870
+Contéstale como contestarías a una persona:
+
+67
+00:02:47,920 --> 00:02:50,990
+más corto, menos formal, el segundo punto
+
+68
+00:02:51,040 --> 00:02:53,660
+no me convence, dame otra opción.
+
+69
+00:02:53,710 --> 00:02:56,780
+Y si quieres ir más rápido, pídele
+
+70
+00:02:56,830 --> 00:02:59,900
+desde el principio: dame tres versiones distintas.
+
+71
+00:02:59,950 --> 00:03:04,350
+Elegir entre tres es mucho más fácil que corregir una.
+
+72
+00:03:04,700 --> 00:03:07,940
+Y este es el que más me ha cambiado.
+
+73
+00:03:07,990 --> 00:03:10,490
+Cuando tengas una respuesta, escribe: revisa lo
+
+74
+00:03:10,540 --> 00:03:13,050
+que acabas de escribir: ¿qué está mal
+
+75
+00:03:13,100 --> 00:03:15,610
+qué falta y qué podría ser falso?.
+
+76
+00:03:15,660 --> 00:03:19,990
+Las IA se equivocan. A veces se inventan datos con total seguridad.
+
+77
+00:03:20,040 --> 00:03:22,180
+Pedirle que se critique a sí
+
+78
+00:03:22,230 --> 00:03:24,370
+misma no lo arregla todo, pero
+
+79
+00:03:24,420 --> 00:03:26,560
+muchas veces encuentra sus propios fallos.
+
+80
+00:03:26,610 --> 00:03:29,480
+Y para cualquier cosa importante ,salud, dinero, temas
+
+81
+00:03:29,530 --> 00:03:32,770
+legales, comprueba siempre la información en una fuente fiable.
+
+82
+00:03:32,820 --> 00:03:34,960
+La IA es un ayudante, no
+
+83
+00:03:35,010 --> 00:03:37,150
+un experto que firme por ti.
+
+84
+00:03:37,500 --> 00:03:40,050
+Repaso rápido: dale un papel, cuéntale tu situación
+
+85
+00:03:40,100 --> 00:03:42,640
+dile el formato, enséñale un ejemplo, pídele que
+
+86
+00:03:42,690 --> 00:03:44,920
+te pregunte, no te quedes con la
+
+87
+00:03:44,970 --> 00:03:47,510
+primera, y que se revise a sí misma.
+
+88
+00:03:47,560 --> 00:03:49,790
+Si te ha servido, guarda este vídeo
+
+89
+00:03:49,840 --> 00:03:52,060
+para tenerlo a mano y suscríbete: cada
+
+90
+00:03:52,110 --> 00:03:54,660
+semana explico una herramienta o un truco de
+
+91
+00:03:54,710 --> 00:03:56,930
+IA que puedes usar ese mismo día.
+
+92
+00:03:56,980 --> 00:03:59,530
+Y cuéntame en comentarios para qué usas tú
+
+93
+00:03:59,580 --> 00:04:02,450
+la IA, que de ahí saco los próximos vídeos.

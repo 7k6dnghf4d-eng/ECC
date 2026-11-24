@@ -5,7 +5,7 @@ LIB=${LIB:-/root/lemo-opuscar}
 HERE=$(cd "$(dirname "$0")" && pwd)
 cd "$LIB"
 for K in A B C; do
-  set -- $(grep -o "$K: { t0: [0-9.]*, t1: [0-9.]*" "$HERE/shorts.js" | grep -o '[0-9.]*$\|t0: [0-9.]*' | grep -o '[0-9.]*')
+  set -- $(sed -n "s/.*$K: { t0: \([0-9.]*\), t1: \([0-9.]*\).*/\1 \2/p" "$HERE/shorts.js")
   T0=$1; T1=$2; LEN=$(python3 -c "print(round($T1-$T0,2))")
   node core/render/video.mjs "$HERE" --fps 24 --workers 4 --size 1080x1920 --q "short=$K" --out "$HERE/out/short_$K.mp4"
   # audio: the film's mix for that stretch, short fade, then silence under the end card; normalised to -14 LUFS

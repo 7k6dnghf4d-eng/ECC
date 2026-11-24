@@ -57,7 +57,7 @@ function expandClip(g, t, t0, cx, cy) {
 }
 
 // The viral photo: a code-drawn sunset with a figure (fictional; no real person or event)
-function photo(g, x, y, w, h, o = {}) {
+export function photo(g, x, y, w, h, o = {}) {
   const { dots = 0, smooth = 0 } = o;
   g.save(); rr(g, x, y, w, h, 18); g.clip();
   const sky = g.createLinearGradient(0, y, 0, y + h); sky.addColorStop(0, '#2B3A67'); sky.addColorStop(0.55, '#C8746A'); sky.addColorStop(1, '#F2B880');
@@ -77,7 +77,7 @@ function photo(g, x, y, w, h, o = {}) {
   g.restore();
   g.strokeStyle = 'rgba(255,255,255,.14)'; g.lineWidth = 1.5; rr(g, x + 0.5, y + 0.5, w - 1, h - 1, 18); g.stroke();
 }
-function stamp(g, s, x, y, col, p, rot = -0.12) {
+export function stamp(g, s, x, y, col, p, rot = -0.12) {
   if (p <= 0) return; g.save(); g.translate(x, y); g.rotate(rot); const k = lerp(1.6, 1, back(p, 1.6)); g.scale(k, k); g.globalAlpha = clamp(p * 2);
   g.font = font(64, 800, 'disp'); const w = g.measureText(s).width + 60;
   g.strokeStyle = col; g.lineWidth = 8; g.shadowColor = rgba(col, 0.7); g.shadowBlur = 20; rr(g, -w / 2, -52, w, 104, 16); g.stroke();
